@@ -41,7 +41,7 @@ Run file **Partitioning_columns_rows.xlsm** and **excel file**, in which is nece
 
 ### Links
 
-- more about this [Columns and Rows][1]
+- more about this [Partitioning Columns and Rows in Excel][1]
 - website [rmSOFT][2]
 - [donate][3] *(Thanks)*
 
